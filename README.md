@@ -17,8 +17,8 @@ Fundador da **[Divinus Tecnologia](https://divinustecnologia.com.br)**, onde pro
 |---|---|
 | [JGremodelar-Pro-Website](https://github.com/iTzB0r/JGremodelar-Pro-Website) | Site institucional responsivo de uma empresa de remodelações em Portugal, em produção em [jgremodelar.pt](https://jgremodelar.pt). HTML, CSS e JavaScript puro, deploy via cPanel. |
 | [Projeto-Ci-cd](https://github.com/iTzB0r/Projeto-Ci-cd) | Pipeline de integração contínua no GitHub Actions (lint, testes e notificação no Discord) para uma API Node/Express. |
-| [cooperacai-site](https://github.com/iTzB0r/cooperacai-site) | Site de página única para uma cooperativa de açaí do Pará, com tema claro e escuro e gráfico sazonal. |
-| [Galeria-Dos-Imortais](https://github.com/iTzB0r/Galeria-Dos-Imortais) | Galeria interativa de lendas do futebol com busca por jogador, em JavaScript puro. |
+| [cooperacai-site](https://github.com/iTzB0r/cooperacai-site) | Site de página única para uma cooperativa de açaí do Pará, com tema claro e escuro e gráfico sazonal. [Demo ao vivo](https://cooperacai-site.vercel.app). |
+| [Galeria-Dos-Imortais](https://github.com/iTzB0r/Galeria-Dos-Imortais) | Galeria interativa de lendas do futebol com busca por jogador, em JavaScript puro. [Demo ao vivo](https://galeria-dos-imortais.vercel.app). |
 
 ## Projetos de IA
 
