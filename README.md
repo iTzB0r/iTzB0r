@@ -1,0 +1,29 @@
+# Filipe Borja Freitas Silva
+
+**TI, Automação e IA** · Belém, PA · Bacharel em Ciência da Computação (UNAMA)
+
+Fundador da **[Divinus Tecnologia](https://divinustecnologia.com.br)**, onde projeto chatbots com IA no WhatsApp, automações e sites para empresas, com atenção a segurança da informação e LGPD.
+
+## No que eu trabalho
+
+- **IA generativa e automação:** chatbots no WhatsApp (API oficial da Meta) integrados à API do Claude, engenharia de prompts, webhooks e fluxos de triagem com transferência para atendente humano.
+- **Segurança da informação:** controle de acesso por perfil, trilha de auditoria, hash de senhas, validação de assinatura de webhooks, limites de uso e gestão de segredos.
+- **Infraestrutura e nuvem:** Cloudflare Workers e Durable Objects, GitHub Actions (CI/CD), Docker e cPanel.
+- **Desenvolvimento e dados:** JavaScript (Node.js), Python, HTML e CSS, SQL e Power BI.
+
+## Projetos públicos
+
+| Projeto | O que é |
+|---|---|
+| [JGremodelar-Pro-Website](https://github.com/iTzB0r/JGremodelar-Pro-Website) | Site institucional responsivo de uma empresa de remodelações em Portugal, em produção em [jgremodelar.pt](https://jgremodelar.pt). HTML, CSS e JavaScript puro, deploy via cPanel. |
+| [Projeto-Ci-cd](https://github.com/iTzB0r/Projeto-Ci-cd) | Pipeline de integração contínua no GitHub Actions (lint, testes e notificação no Discord) para uma API Node/Express. |
+| [cooperacai-site](https://github.com/iTzB0r/cooperacai-site) | Site de página única para uma cooperativa de açaí do Pará, com tema claro e escuro e gráfico sazonal. |
+| [Galeria-Dos-Imortais](https://github.com/iTzB0r/Galeria-Dos-Imortais) | Galeria interativa de lendas do futebol com busca por jogador, em JavaScript puro. |
+
+## Projetos de IA
+
+Os projetos de clientes da Divinus (chatbots, painéis de atendimento) ficam em repositórios privados por confidencialidade. Há uma demonstração ao vivo do chatbot em [divinustecnologia.com.br/demo](https://divinustecnologia.com.br/demo).
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/filipe-borja-data) · [Divinus Tecnologia](https://divinustecnologia.com.br)
