@@ -6,10 +6,10 @@ Fundador da **[Divinus Tecnologia](https://divinustecnologia.com.br)**, onde pro
 
 ## No que eu trabalho
 
-- **IA generativa e automação:** chatbots no WhatsApp (API oficial da Meta) integrados à API do Claude, engenharia de prompts, webhooks e fluxos de triagem com transferência para atendente humano.
+- **IA generativa e automação:** agentes com Claude, GPT e Gemini, chatbots no WhatsApp (API oficial da Meta) integrados à API do Claude, engenharia de prompts, n8n, webhooks e fluxos de triagem com transferência para atendente humano.
 - **Segurança da informação:** controle de acesso por perfil, trilha de auditoria, hash de senhas, validação de assinatura de webhooks, limites de uso e gestão de segredos.
 - **Infraestrutura e nuvem:** Cloudflare Workers e Durable Objects, GitHub Actions (CI/CD), Docker e cPanel.
-- **Desenvolvimento e dados:** JavaScript (Node.js), Python, HTML e CSS, SQL e Power BI.
+- **Desenvolvimento e dados:** Cursor e Claude Code, JavaScript (Node.js), Python, HTML e CSS, SQL e Power BI.
 
 ## Projetos públicos
 
