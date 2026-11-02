@@ -22,7 +22,15 @@ Fundador da **[Divinus Tecnologia](https://divinustecnologia.com.br)**, onde pro
 
 ## Projetos de IA
 
-Os projetos de clientes da Divinus (chatbots, painéis de atendimento) ficam em repositórios privados por confidencialidade. Há uma demonstração ao vivo do chatbot em [divinustecnologia.com.br/demo](https://divinustecnologia.com.br/demo).
+Os projetos de clientes e o produto da Divinus ficam em repositórios privados por confidencialidade. O que eles fazem:
+
+- **Assistente de WhatsApp com Claude e uso de ferramentas:** conduz a conversa, registra leads para a equipe, trata opt-out e pedidos de exclusão de dados e agenda lembretes automáticos dentro da janela de 24 h do WhatsApp.
+- **Gerador de demonstrações de chatbot e site** por segmento (clínica, estética, imobiliária e veterinária).
+- **Painel de atendimento** com login por perfil, auditoria e transferência para atendente humano.
+
+Demonstração ao vivo: [divinustecnologia.com.br/demo](https://divinustecnologia.com.br/demo)
+
+Aberto a oportunidades em IA generativa e automação.
 
 ## Contato
 
